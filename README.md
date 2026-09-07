@@ -39,6 +39,7 @@ A curated list of tools and resources for Platform Engineering.
 - [Ota](https://github.com/ota-run/ota) - Open-source repo execution governance with machine-readable contracts for setup, verification, workflows, runtime proof, and agent-safe execution.
 - [SandBase Harness](https://github.com/sandbaseai/sandbase-harness) - Local-first agent runtime and MCP bridge for auditable sessions, sandboxed execution, approvals, and Docker/Kubernetes-backed platform workflows.
 - [YYLO](https://github.com/yylo-dev/yylo) - Command-line orchestrator for coding agents and repeatable workflows with typed task, validation, merge, and release-readiness boundaries; each task runs in a dedicated branch/worktree and a merge queue owns risk-based review for receipt-backed repository changes.
+- [Bit Cloud](https://bit.cloud/) - Composable developer platform where teams plug their components, services, and design systems into a shared, versioned registry with CI, instead of the platform integrating each app; Hope AI, its coding agent, builds and ships apps from that registry, so AI-generated software stays inside the platform team's standards, backend, and governance.
 
 ## Tooling— Microservices
 - [JHipster for microservices creation and integration at scale](https://www.jhipster.tech/)
